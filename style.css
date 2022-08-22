@@ -1,0 +1,104 @@
+body {
+  font-size: 20px;
+  background-image: url("shanghai-china-city-8k-oc-7680x4320.jpg");
+  background-size: cover;
+}
+.heading {
+ width: 50%;
+ margin: 30px auto;
+ text-align: center;
+ color: #62C2CC;
+ background: #5f8dc9;
+ border: 2px solid #EEFBFB;
+ border-radius: 20px;
+ }
+
+form {
+  width: 15%;
+  margin: 30px auto;
+  border-radius: 5px;
+  padding: 10px;
+  background: #9fb2dd;
+  border: 1px solid #EEFBFB;
+
+}
+
+form p {
+  color: #EEFBFB;
+  margin: 0px;
+}
+.task_input {
+  width: 50%;
+  height: 15px;
+  padding: 10px;
+  border: 2px solid #EEFBFB;
+  margin-bottom: 10px;
+  margin-left: 15px;
+
+}
+.until {
+
+  margin-left: 12px;
+}
+.add_btn {
+  height: 39px;
+  background: #4DA8DA;
+  color: #EEFBFB;
+  border: 2px solid #EEFBFB;
+  border-radius: 5px;
+  padding: 5px 20px;
+  left: 30%;
+  position: relative;
+}
+table {
+  width: 50%;
+  margin: 30px auto;
+  border-collapse: collapse;
+    text-align: center;
+}
+tr {
+  border: 1px solid #cbcbcb;
+}
+th {
+  font-size: 20px;
+  color: #333d51;
+  background-color: #f9e3e3;
+}
+th, td {
+  border: none;
+  height: 30px;
+  padding: 2px;
+} td {
+  color: #648dc9;
+ height: 50px;
+
+
+  font-size: 30px;
+} tbody {
+  background-color: #ffbda4;
+
+
+}
+.list:hover {
+  background-color: #1f3e65;
+}
+.task {
+  text-align: left;
+
+}
+.delete a {
+  color: white;
+  background: #333d51;
+  padding: 1px 6px;
+  border-radius: 3px;
+  text-decoration: none;
+
+}.date {
+  width: 16%;
+ }table td {
+    border-left: 1px solid #aca0a0;
+     border-bottom: 1px solid #aca0a0;
+  }tbody tr:nth-child(odd){
+     background-color: #fcb293;
+
+   }
